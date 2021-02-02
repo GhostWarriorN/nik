@@ -60,9 +60,9 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: orange;
+  background-color: #000;
   height: 100vh;
-  color:whitesmoke;
+  color:orange;
   text-align: center;
   display: flex;
   flex-direction: column;
