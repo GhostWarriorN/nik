@@ -60,7 +60,7 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #000;
+  background-color: orange;
   height: 100vh;
   color:whitesmoke;
   text-align: center;
@@ -103,6 +103,7 @@ a {
   position: absolute;
   bottom: 50px;
   z-index: 1000;
+  color:#fff;
 }
 
 /*...................................
